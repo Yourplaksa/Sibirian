@@ -5,7 +5,7 @@
   font-family: 'Noto Sans';
 }
 .page{
-  background: linear-gradient(to top, rgba(75, 58, 42, 1), transparent), url(../img/pexels-screeny-11053634.jpg);
+  background: linear-gradient(to top, rgba(75, 58, 42, 1), transparent), url(../img/background.jpg);
   background-size: cover;
 }
 .header{
